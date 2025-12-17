@@ -83,7 +83,7 @@ Flowing waves and gentle motion meant to feel calming and fluid.
 ### `air`
 Light, drifting patterns that feel breathable and spacious.
 
-Each animation runs until you stop it.
+Each animation runs until you stop it (ctrl + c).
 
 ### Stop an animation
 
